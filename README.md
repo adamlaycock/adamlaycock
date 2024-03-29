@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @adamlaycock
+- 👀 I’m interested in molecular genetics and immunology.
+- 🌱 I’m currently learning biopython and command line sequence analysis.
+- 💞️ I’m looking to collaborate on omics projects and large scale modelling.
+- 📫 You can reach me by smoke signal or, more traditionally, messaging.
+- 😄 Pronouns: He/Him
