@@ -3,7 +3,7 @@
 I’m an undergraduate student in Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**. I leverage **Python** and **R** to analyse, model, and interpret complex biological data.
 
 ## About Me
-I am fascinated by the **intersection of machine learning** and **biology**, I’m passionate about using these technologies to solve real-world biological problems, especially in areas like predicitive epidemiology and genomics.  
+I am fascinated by the **intersection of machine learning** and **biology**, I’m passionate about using these technologies in areas like predicitive epidemiology and genomics.  
 
 ## Current Focus
 - Python-based **clustering techniques** in scRNA-seq data.
