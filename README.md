@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adam
+# 👋 Hi, I’m Adam!
 
 I’m an undergraduate student in Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**. I leverage **Python** and **R** to analyse, model, and interpret complex biological data.
 
