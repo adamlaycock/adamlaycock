@@ -6,7 +6,7 @@ I’m an undergraduate student in Molecular Genetics at the University of Edinbu
 I am fascinated by the **intersection of machine learning** and **biology**, I’m passionate about using these technologies to solve real-world biological problems, especially in areas like predicitive epidemiology and genomics.  
 
 ## Current Focus
-- Practicing Python-based **clustering techniques** in scRNA-seq data.
+- Python-based **clustering techniques** in scRNA-seq data.
 
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
