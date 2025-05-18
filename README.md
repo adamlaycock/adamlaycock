@@ -1,11 +1,11 @@
 # Hello, I’m Adam!
 
-I’m an undergraduate student studying Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**.
+I’m an undergraduate student studying Molecular Genetics at the [University of Edinburgh](https://www.ed.ac.uk/), with an interest in **computational biology** and **bioinformatics**.
 
 ## About Me
 I'm excited about the intersection of **machine learning and biology**, especially in areas like predictive epidemiology and genomics. 
 
-I began learning Python in September 2023 and currently intern at Northern Powergrid, where I develop machine learning models for financial risk and automate the extraction, transformation, and analysis of legacy data. While this work is in the energy sector, it’s helped me build a strong foundation in applied ML and data engineering which I frequently transfer to biological contexts.
+I began learning Python in September 2023 and currently intern at [Northern Powergrid](https://www.northernpowergrid.com/), where I develop machine learning models for financial risk and automate the extraction, transformation, and analysis of legacy data. While this work is in the energy sector, it’s helped me build a strong foundation in applied machine learning and data engineering which I frequently transfer to biological contexts.
 
 ## Current Focus
 - Python-based **clustering techniques** in scRNA-seq data.
