@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adam!
+# Hello, I’m Adam!
 
 I’m an undergraduate student in Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**. I leverage **Python** and **R** to analyse, model, and interpret complex biological data.
 
@@ -29,10 +29,10 @@ I am fascinated by the **intersection of machine learning** and **biology**, I�
 
 ## Featured Projects
 
-### [🌪️ NOAA Storm Events](https://github.com/adamlaycock/StormEventsProject)
+### [NOAA Storm Events](https://github.com/adamlaycock/StormEventsProject)
 Implemented machine learning models to cluster and predict dangerous weather events, based on historical storm data.
 
-### [🧫 Ovarian Cancer scRNA-Seq](https://github.com/adamlaycock/Ovarian-Cancer-scRNA-Seq)
+### [Ovarian Cancer scRNA-Seq](https://github.com/adamlaycock/Ovarian-Cancer-scRNA-Seq)
 *Work in Progress* 
 
 ## Connect
