@@ -9,18 +9,18 @@ I am fascinated by the **intersection of machine learning** and **biology**, Iâ€
 - Python-based **clustering techniques** in scRNA-seq data.
 
 ## Languages and Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Dask](https://img.shields.io/badge/Dask-4B6C4F?style=flat&logo=dask&logoColor=white)](https://dask.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=fff)](#)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=fff)](https://seaborn.pydata.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Plotly](https://img.shields.io/badge/Plotly-3E4E5E?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![SciPy](https://img.shields.io/badge/SciPy-8C1D40?style=flat&logo=scipy&logoColor=white)](https://www.scipy.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)]([#](https://www.r-project.org/))
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Tidyverse](https://img.shields.io/badge/Tidyverse-4C72B0?style=flat&logo=r&logoColor=white)](https://www.tidyverse.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Tidymodels](https://img.shields.io/badge/Tidymodels-4C72B0?style=flat&logo=r&logoColor=white)](https://www.tidymodels.org/)
