@@ -1,6 +1,6 @@
 # Hello, I’m Adam!
 
-I’m an undergraduate student in Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**. I leverage **Python** and **R** to analyse, model, and interpret complex biological data.
+I’m an undergraduate student studying Molecular Genetics at the University of Edinburgh, with an interest in **computational biology** and **bioinformatics**. I leverage **Python** and **R** to analyse, model, and interpret complex biological data.
 
 ## About Me
 I am fascinated by the **intersection of machine learning** and **biology**, I’m passionate about using these technologies in areas like predicitive epidemiology and genomics.  
