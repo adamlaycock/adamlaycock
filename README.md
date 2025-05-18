@@ -37,3 +37,4 @@ Implemented machine learning models to cluster and predict dangerous weather eve
 
 ## Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adamlaycock1/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:A.Laycock@sms.ed.ac.uk)
