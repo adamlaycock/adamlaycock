@@ -21,7 +21,7 @@ I began learning Python in September 2023 and currently intern at [Northern Powe
 &nbsp;&nbsp;&nbsp;&nbsp;[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![SciPy](https://img.shields.io/badge/SciPy-8C1D40?style=flat&logo=scipy&logoColor=white)](https://www.scipy.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://scikit-learn.org/](https://streamlit.io/))
+&nbsp;&nbsp;&nbsp;&nbsp;[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)]([#](https://www.r-project.org/))
 
