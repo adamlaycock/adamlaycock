@@ -5,7 +5,7 @@ I’m an undergraduate student studying Molecular Genetics at the [University of
 ## About Me
 I'm particularly excited about the intersection of **machine learning and biology**, especially in areas like predictive epidemiology and genomics. 
 
-I began learning Python in September 2023 and have interned at [Northern Powergrid](https://www.northernpowergrid.com/), where I developed machine learning models for financial risk and automatde the extraction, transformation, and analysis of legacy data. While this work was in the energy sector, it has helped me to build a strong foundation in applied machine learning and data engineering which I frequently transfer to biological contexts.
+I began learning Python in September 2023 and have interned at [Northern Powergrid](https://www.northernpowergrid.com/), where I developed machine learning models for financial risk and automated the extraction, transformation, and analysis of legacy data. While this work was in the energy sector, it has helped me to build a strong foundation in applied machine learning and data engineering which I frequently transfer to biological contexts.
 
 ## Current Focus
 - Streamlit for development of GUIs and dashboards to enhance data commmunication and interactivity.
