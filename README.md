@@ -3,9 +3,11 @@
 I’m an undergraduate student studying Molecular Genetics at the [University of Edinburgh](https://www.biology.ed.ac.uk/), with interests in **molecular biology**, **bioinformatics**, and **pathogen biology**.
 
 ## About Me
-I'm particularly excited about the intersection of **machine learning and biology**, especially in areas like predictive epidemiology and genomics. 
+I'm particularly excited about the intersection of **infectious diseases** and **machine learning**.
 
 I began learning Python in September 2023 and have interned at [Northern Powergrid](https://www.northernpowergrid.com/), where I developed machine learning models for financial risk and automated the extraction, transformation, and analysis of legacy data. While this work was in the energy sector, it has helped me to build a strong foundation in applied machine learning and data engineering which I frequently transfer to biological contexts.
+
+I currently intern at the Gaunt lab, based at the [Roslin Institute](https://vet.ed.ac.uk/roslin), investigating the ZAP-independent attentuation of influenza A viruses with synonymously recoded haemagglutinin.
 
 ## Current Focus
 - Streamlit for development of GUIs and dashboards to enhance data commmunication and interactivity.
@@ -39,9 +41,6 @@ I began learning Python in September 2023 and have interned at [Northern Powergr
 
 ### [NOAA Storm Events](https://github.com/adamlaycock/StormEventsProject)
 Implemented machine learning models to cluster and predict dangerous weather events, based on historical storm data.
-
-### [Ovarian Cancer scRNA-Seq](https://github.com/adamlaycock/Ovarian-Cancer-scRNA-Seq)
-*Work in Progress* 
 
 ## Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adamlaycock1/)
