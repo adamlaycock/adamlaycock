@@ -7,7 +7,7 @@ I'm particularly excited about the intersection of **infectious diseases** and *
 
 I began learning Python in September 2023 and have interned at [Northern Powergrid](https://www.northernpowergrid.com/), where I developed machine learning models for financial risk and automated the extraction, transformation, and analysis of legacy data. While this work was in the energy sector, it has helped me to build a strong foundation in applied machine learning and data engineering which I frequently transfer to biological contexts.
 
-I currently intern at the Gaunt lab, based at the [Roslin Institute](https://vet.ed.ac.uk/roslin), investigating the ZAP-independent attentuation of influenza A viruses with synonymously recoded haemagglutinin.
+I currently intern at the Gaunt lab, based at the [Roslin Institute](https://vet.ed.ac.uk/roslin), investigating the ZAP-independent attentuation of influenza A viruses with synonymously-recoded haemagglutinin.
 
 ## Current Focus
 - Streamlit for development of GUIs and dashboards to enhance data commmunication and interactivity.
